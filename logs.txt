@@ -1,0 +1,20 @@
+
+Swapped: 839 and 197
+
+Swapped: 393 and 277
+
+Swapped: 782 and 334
+
+Swapped: 797 and 393
+
+Swapped: 910 and 553
+
+Swapped: 839 and 767
+
+782 is in the correct index position no swaps performed
+
+Swapped: 839 and 797
+
+839 is in the correct index position no swaps performed
+
+910 is in the correct index position no swaps performed
